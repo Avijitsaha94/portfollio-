@@ -6,4 +6,6 @@ nav{
     display: flex;
     justify-content: space-between;
 }
-*prima
+.banner{
+  display: flex;
+}
